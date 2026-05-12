@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vra-ga&show_icons=true&theme=radical)
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
