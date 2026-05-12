@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   - And **almost 700 game With [Chou]** with **64% Winrate** in Ranked 🔥
     ![Joy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI3aXltNnpuaDV4c2ducW8zNHJuYTRlZ2pibjY5cHIxdmlob3RkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDZ7omP3MfbELULIC0/giphy.gif)
 
-https://typograssy.deno.dev/api?scheme=cyan&text=Vargadio&speed=227
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
